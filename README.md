@@ -1,6 +1,9 @@
 # uber_clone
 Jenkins Driven: CI/CD for Uber Clone with Monitoring Excellence
 
+![1_EStRQqT3A8k2Qjdf5EnQFw](https://github.com/sunilkurthakoti/uber_clone/assets/131526336/40dd0fad-9c8c-4c4c-a2e6-72d911add40a)
+
+
 ### Technologies Used in This Project:
 
 Explore the key components contributing to the seamless integration and continuous delivery of your Uber Clone application:
